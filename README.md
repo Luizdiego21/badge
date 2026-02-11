@@ -15,7 +15,9 @@ Somente um teste simples
 - git clone (clonar um repositório)
 - git branch (mostrar a branch atual)
 -git checkout -b (criar uma nova branch)
-- git status (status da minha branch)
-- git add (Pedir para salvar)
+- git status (verificar status da minha branch)
+- git add (adiciona todos os arquivos do path)
+- git commit -m (salvar as alterações)
+- git push origin (enviar alterações ao repositorio remoto)
 
-Autor: Diego Pavan
+Autor: Diego Pavan .
